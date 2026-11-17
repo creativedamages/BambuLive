@@ -1,0 +1,5 @@
+/dist/
+node_modules/
+.env*
+printers.json
+.DS_Store

@@ -1,0 +1,4 @@
+[
+  {"id":"x2d-1","name":"X2D 1","host":"192.168.1.101","serial":"YOUR_FIRST_SERIAL","accessCode":"YOUR_FIRST_ACCESS_CODE"},
+  {"id":"x2d-2","name":"X2D 2","host":"192.168.1.102","serial":"YOUR_SECOND_SERIAL","accessCode":"YOUR_SECOND_ACCESS_CODE"}
+]
